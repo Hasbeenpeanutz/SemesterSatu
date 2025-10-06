@@ -1,8 +1,8 @@
-package pertemuan5;
+package jobsheet.jobsheet5;
 
 import java.util.Scanner;
 
-public class teori {
+public class selection {
     public static void main(String[] args) {
         Scanner ans = new Scanner (System.in);
 
