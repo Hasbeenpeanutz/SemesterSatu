@@ -1,4 +1,4 @@
-package jonsheet6;
+package latihan.jonsheet6;
 
 import java.util.Scanner;
 
