@@ -1,4 +1,4 @@
-package latihan.quiz;
+package jobsheet.quiz;
 
 import java.util.Scanner;
 

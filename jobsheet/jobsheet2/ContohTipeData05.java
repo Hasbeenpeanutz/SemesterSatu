@@ -1,4 +1,5 @@
-package latihan.jobsheet2;
+package jobsheet.jobsheet2;
+
 
 public class ContohTipeData05 {
     public static void main(String[] args) {

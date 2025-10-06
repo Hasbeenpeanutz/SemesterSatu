@@ -1,4 +1,4 @@
-package latihan.jobsheet1;
+package jobsheet.jobsheet1;
 
 public class nyoba {
     public static void main(String[] args) {

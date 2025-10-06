@@ -1,4 +1,4 @@
-package latihan.jobsheet3;
+package jobsheet.jobsheet3;
 
 public class ExampleOperator05 {
     public static void main(String[] args) {

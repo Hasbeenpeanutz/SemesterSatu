@@ -1,4 +1,4 @@
-package latihan.jonsheet6;
+package jobsheet.jobsheet6;
 
 import java.util.Scanner;
 

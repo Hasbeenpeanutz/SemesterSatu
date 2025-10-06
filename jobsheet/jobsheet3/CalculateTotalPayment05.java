@@ -1,4 +1,4 @@
-package latihan.jobsheet3;
+package jobsheet.jobsheet3;
 
 import java.util.Scanner;
 
