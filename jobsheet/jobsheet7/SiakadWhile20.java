@@ -21,7 +21,7 @@ public class SiakadWhile20 {
 
             if (score > 80) {
                 System.out.println("Grade: A");
-                System.out.println("Nice, keep it up!");
+                System.out.println("Good, keep it up!");
             } else if (score > 73) {
                 System.out.println("Grade: B+");
             } else if (score > 65) {
