@@ -19,7 +19,7 @@ public class ParkingSystem {
 
             System.out.print("Enter parking duration (hours): ");
             hours = sc.nextInt();
-            sc.nextLine(); // clear buffer
+            sc.nextLine(); 
 
             double fee = 0;
             if (hours > 5) {
