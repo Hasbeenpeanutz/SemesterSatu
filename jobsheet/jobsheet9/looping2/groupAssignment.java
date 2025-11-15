@@ -1,12 +1,12 @@
-package jobsheet.jobsheet8.looping2;
+package jobsheet.jobsheet9.looping2;
 
 public class groupAssignment {
 
     public static void main(String[] args) {
         // question.patternA();
-        question.patternB();
+        // question.patternB();
         // question.patternC();
-        // question.assignment();
+        question.assignment();
     }
 
     public class question {
