@@ -1,3 +1,5 @@
+package jobsheet.jobsheet10;
+
 public class cinema05 {
     public static void main(String[] args) {
         
